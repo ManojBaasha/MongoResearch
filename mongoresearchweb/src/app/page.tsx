@@ -43,7 +43,7 @@ export default function Home() {
                 showBorder={false}
                 className="text-xl font-semibold tracking-tight"
               >
-                MongoResearch
+                ResoPrism
               </GradientText>
             </div>
             
@@ -103,7 +103,7 @@ export default function Home() {
                   showBorder={false}
                   className="text-5xl md:text-6xl lg:text-7xl font-bold tracking-tight"
                 >
-                  Research Assistant
+                  ResoPrism
                 </GradientText>
               </div>
             </ScrollReveal>
